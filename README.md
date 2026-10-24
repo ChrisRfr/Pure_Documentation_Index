@@ -1,4 +1,4 @@
-# Pure_Documentation_Index
+# PureBasic Documentation Index
 
 PureBasic Documentation Index generates a searchable standalone HTML index of PureBasic commands and functions, including Syntax, descriptions, Return value.
 
